@@ -17,7 +17,7 @@
 - Análise visual de potência recebida com sobreamento
 - Implementação do sombreamento correlacionado 
 
-### Hands-on 02: Caracterização de canal banda estreita (modelagem e caracterização do desvanecimento de pequena escala) - [Link via Github](https://github.com/vicentesousa/DCO1020_2020_5/blob/master/h01_parte_03.ipynb)  - [Link alternativo via nbviewer](http://nbviewer.jupyter.org/github/vicentesousa/DCO1020_2020_5/blob/master/h01_parte_03.ipynb)
+### Hands-on 02: Caracterização de canal banda estreita (modelagem e caracterização do desvanecimento de pequena escala) - [Link via Github](https://github.com/vicentesousa/DCO1020_2020_5/blob/master/h01_parte_03.ipynb)  - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/DCO1020_2020_5/blob/master/h01_parte_03.ipynb)
 
 **Objetivos:**
 - Gerar uma série temporal sintética com Perda de Percurso, Sombreamento e Desvanecimento m-Nakagami;
@@ -30,7 +30,7 @@
 
 ## Parte 2
 
-### Hands-on 1: OFDM Basics (ortogonalidade, transmissão e recepção, desempenho em canal sem fio) - [Link via Github](https://github.com/vicentesousa/DCO1020_2020_5/blob/master/h02.ipynb) - [Link alternativo via nbviewer](http://nbviewer.jupyter.org/github/DCO1020_2020_5/blob/master/h02.ipynb)
+### Hands-on 1: OFDM Basics (ortogonalidade, transmissão e recepção, desempenho em canal sem fio) - [Link via Github](https://github.com/vicentesousa/DCO1020_2020_5/blob/master/h02.ipynb) - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/DCO1020_2020_5/blob/master/h02.ipynb)
 #### Objetivos
 - Entender a modelagem da multiplexação OFDM;
 - Entender o processo de ortogalização entre subportadoras OFDM;
@@ -44,7 +44,7 @@
 
 ## Parte 3
 
-### Hands-on 1: calculadora de taxa de transmissão máxima de sistemas 4G e 5G - [Link via Github](https://github.com/vicentesousa/DCO1020_2020_5/blob/master/h03.ipynb) - [Link alternativo via nbviewer](http://nbviewer.jupyter.org/github/DCO1020_2020_5/blob/master/h03.ipynb)
+### Hands-on 1: calculadora de taxa de transmissão máxima de sistemas 4G e 5G - [Link via Github](https://github.com/vicentesousa/DCO1020_2020_5/blob/master/h03.ipynb) - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/DCO1020_2020_5/blob/master/h03.ipynb)
 
 #### Objetivos
 - Entender o cálculo de taxa máxima de sistemas 3GPP-LTE;
