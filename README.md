@@ -23,7 +23,7 @@
 - Estimar cada desvanecimento por meio de regressão linear, filtragem e tratamento estatístico;
 - Fazer gráficos e comparar as partes geradas sinteticamente e as partes estimadas.
 
-**As entregas devem compor um único arquivo zip com os códigos separados nas seguintes pastas: Entrega_01, Entrega_02, Entrega_03 e Entrega 04, respectivamente para cada entrega. Cada pasta deve conter um arquivo chamado README.txt, indicando como rodar o código produzido por você (produza um código autocontido, no qual o usuário deva rodar um único script para chegar nos resultados desejados). Finalmente, em cada pasta deve conter um documento, de no máximo 2 páginas, relatando algum aspecto que você ache importante destacar sobre cada experimento. O relato pode ser técnico (análise de algum resultado) e administrativo (voltado a comentários sobre a execução do projeto). O arquivo zip deve ser entregue via SIGAA.**
+**As entregas devem compor um único arquivo zip com os códigos separados nas seguintes pastas: Entrega_01, Entrega_02, Entrega_03, Entrega_04 e Entrega_05, respectivamente para cada entrega. Cada pasta deve conter um arquivo chamado README.txt, indicando como rodar o código produzido por você (produza um código autocontido, no qual o usuário deva rodar um único script para chegar nos resultados desejados). Finalmente, em cada pasta deve conter um documento, de no máximo 2 páginas, relatando algum aspecto que você ache importante destacar sobre cada experimento. O relato pode ser técnico (análise de algum resultado) e administrativo (voltado a comentários sobre a execução do projeto). O arquivo zip deve ser entregue via SIGAA.**
 
 ## Parte 2
 
