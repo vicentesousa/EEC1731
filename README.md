@@ -28,14 +28,14 @@
 ## Parte 2
 
 ### Hands-on 1: OFDM Basics (ortogonalidade, transmissão e recepção, desempenho em canal sem fio)
-#### [Hands-on](http://nbviewer.jupyter.org/github/vicentesousa/DCO2010_ComMoveis/blob/master/hX.ipynb)
+#### [Hands-on](http://nbviewer.jupyter.org/github/vicentesousa/DCO2010_ComMoveis/blob/master/h02.ipynb)
 #### Objetivos
 - Entender a modelagem da multiplexação OFDM;
 - Entender o processo de ortogalização entre subportadoras OFDM;
 - Entender a modelagem da demultiplexação OFDM;
 - Demonstrar o processo de demultiplexação OFDM em canais AWGN.
 
-**A entrega está descrita no hands-on.**
+**A entrega devem compor um único arquivo zip com os códigos, o mini-relatório e um arquivo chamado README.txt, indicando como rodar o código produzido por você (produza um código autocontido, no qual o usuário deva rodar um único script para chegar nos resultados desejados). O mini-relatório deve ser técnico (análise dos resultados), mas pode ser administrativo (voltado a comentários sobre a execução do projeto). O arquivo zip deve ser entregue via SIGAA.**
 
 
 ## Parte 3
@@ -48,7 +48,7 @@
 - Modelar o cálculo de taxa máxima de sistemas de comunicação;
 - Implementar o cálculo de taxa máxima de sistemas de comunicação usando o Python.
 
-**A entrega está descrita no hands-on.**
+
 
 
 <!--
