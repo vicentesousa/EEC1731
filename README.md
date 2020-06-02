@@ -25,6 +25,8 @@
 
 **As entregas devem compor um único arquivo zip com os códigos separados nas seguintes pastas: Entrega_01, Entrega_02, Entrega_03, Entrega_04 e Entrega_05, respectivamente para cada entrega. Cada pasta deve conter um arquivo chamado README.txt, indicando como rodar o código produzido por você (produza um código autocontido, no qual o usuário deva rodar um único script para chegar nos resultados desejados). Finalmente, em cada pasta deve conter um documento, de no máximo 2 páginas, relatando algum aspecto que você ache importante destacar sobre cada experimento. O relato pode ser técnico (análise de algum resultado) e administrativo (voltado a comentários sobre a execução do projeto). O arquivo zip deve ser entregue via SIGAA.**
 
+**Faz parte da entrega a produção de um vídeo no youtube, de no máximo 5 minutos, contendo uma descrição do relatório e do código implementado (explicar brevemente o que foi feito, mostrar as formulações, mostrar como rodar o código e os gráficos gerados). O link do vídeo deve ser informado no mini-relatório. O vídeo é parte bem importante da avaliação.**
+
 ## Parte 2
 
 ### Hands-on 1: OFDM Basics (ortogonalidade, transmissão e recepção, desempenho em canal sem fio)
@@ -37,6 +39,8 @@
 
 **A entrega devem compor um único arquivo zip com os códigos, o mini-relatório e um arquivo chamado README.txt, indicando como rodar o código produzido por você (produza um código autocontido, no qual o usuário deva rodar um único script para chegar nos resultados desejados). O mini-relatório deve ser técnico (análise dos resultados), mas pode ser administrativo (voltado a comentários sobre a execução do projeto). O arquivo zip deve ser entregue via SIGAA.**
 
+**Faz parte da entrega a produção de um vídeo no youtube, de no máximo 5 minutos, contendo uma descrição do relatório e do código implementado (explicar brevemente o que foi feito, mostrar as formulações, mostrar como rodar o código e os gráficos gerados). O link do vídeo deve ser informado no mini-relatório. O vídeo é parte bem importante da avaliação.**
+
 
 ## Parte 3
 
@@ -48,6 +52,9 @@
 - Modelar o cálculo de taxa máxima de sistemas de comunicação;
 - Implementar o cálculo de taxa máxima de sistemas de comunicação usando o Python.
 
+**A entrega devem compor um único arquivo zip com os códigos, o mini-relatório e um arquivo chamado README.txt, indicando como rodar o código produzido por você (produza um código autocontido, no qual o usuário deva rodar um único script para chegar nos resultados desejados). O mini-relatório deve ser técnico (análise dos resultados), mas pode ser administrativo (voltado a comentários sobre a execução do projeto). O arquivo zip deve ser entregue via SIGAA.**
+
+**Faz parte da entrega a produção de um vídeo no youtube, de no máximo 5 minutos, contendo uma descrição do relatório e do código implementado (explicar brevemente o que foi feito, mostrar as formulações, mostrar como rodar o código e os gráficos gerados). O link do vídeo deve ser informado no mini-relatório. O vídeo é parte bem importante da avaliação.**
 
 <!--
 
