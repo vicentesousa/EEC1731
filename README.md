@@ -11,7 +11,7 @@
 - Análise visual de potência recebida 
 - Análise de Outage de potência
 
-#### Modelagem do Sombreamento - [Link via Github](https://github.com/vicentesousa/DCO1020_2020_5/blob/master/h01_parte02.ipynb) - [Link via Github](https://nbviewer.jupyter.org/github/vicentesousa/DCO1020_2020_5/blob/master/h01_parte02.ipynb)
+#### Modelagem do Sombreamento - [Link via Github](https://github.com/vicentesousa/DCO1020_2020_5/blob/master/h01_parte02.ipynb) - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/DCO1020_2020_5/blob/master/h01_parte02.ipynb)
 
 **Objetivos:**
 - Análise visual de potência recebida com sobreamento
