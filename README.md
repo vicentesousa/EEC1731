@@ -4,20 +4,20 @@
 
 ### Hands-on 01: Uso de modelos de propagação para análises sistêmicas
 
-#### [Avaliação de cobertura celular](https://github.com/vicentesousa/DCO2010_ComMoveis/blob/master/h01_parte01.ipynb)
+#### [Avaliação de cobertura celular](https://github.com/vicentesousa/DCO1020_2020_5/blob/master/h01_parte01.ipynb)
 **Objetivos:**
 - Criação de Grid Hexagonal para modelar cobertura de Estações Rádio Base
 - Análise visual de potência recebida 
 - Análise de Outage de potência
 
-#### [Modelagem do Sombreamento](https://github.com/vicentesousa/DCO2010_ComMoveis/blob/master/h01_parte02.ipynb)
+#### [Modelagem do Sombreamento](https://github.com/vicentesousa/DCO1020_2020_5/blob/master/h01_parte02.ipynb)
 **Objetivos:**
 - Análise visual de potência recebida com sobreamento
 - Implementação do sombreamento correlacionado 
 
 ### Hands-on 02: Caracterização de canal banda estreita (modelagem e caracterização do desvanecimento de pequena escala)
 
-#### [Hands-on](https://github.com/vicentesousa/DCO2010_ComMoveis/blob/master/h01_parte_03.ipynb)
+#### [Hands-on](https://github.com/vicentesousa/DCO1020_2020_5/blob/master/h01_parte_03.ipynb)
 **Objetivos:**
 - Gerar uma série temporal sintética com Perda de Percurso, Sombreamento e Desvanecimento m-Nakagami;
 - Estimar cada desvanecimento por meio de regressão linear, filtragem e tratamento estatístico;
@@ -28,7 +28,7 @@
 ## Parte 2
 
 ### Hands-on 1: OFDM Basics (ortogonalidade, transmissão e recepção, desempenho em canal sem fio)
-#### [Hands-on](https://github.com/vicentesousa/DCO2010_ComMoveis/blob/master/h02.ipynb)
+#### [Hands-on](https://github.com/vicentesousa/DCO1020_2020_5/blob/master/h02.ipynb)
 #### Objetivos
 - Entender a modelagem da multiplexação OFDM;
 - Entender o processo de ortogalização entre subportadoras OFDM;
@@ -41,7 +41,7 @@
 ## Parte 3
 
 ### Hands-on 1: calculadora de taxa de transmissão máxima de sistemas 4G e 5G
-#### [Hands-on](https://github.com/vicentesousa/DCO2010_ComMoveis/blob/master/h03.ipynb)
+#### [Hands-on](https://github.com/vicentesousa/DCO1020_2020_5/blob/master/h03.ipynb)
 #### Objetivos
 - Entender o cálculo de taxa máxima de sistemas 3GPP-LTE;
 - Entender o cálculo de taxa máxima de sistemas 3GPP-NR;
