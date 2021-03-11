@@ -24,7 +24,7 @@
 
 ## UNIDADE II
 
-### Hands-on 1: calculadora de taxa de transmissão máxima de sistemas 4G e 5G - [Link via Github](https://github.com/vicentesousa/DCO1020_2020_5/blob/master/h3_novo.ipynb) - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/DCO1020_2020_5/blob/master/h3_novo.ipynb)
+### Hands-on 1: calculadora de taxa de transmissão máxima de sistemas 4G e 5G - [Link via Github](https://github.com/vicentesousa/DCO1020_2020_5/blob/master/h3_novo.ipynb) - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/DCO1020_2020_2/blob/master/h3_novo.ipynb)
 
 #### Objetivos
 - Entender o cálculo de taxa máxima de sistemas 3GPP-LTE (Release 10);
