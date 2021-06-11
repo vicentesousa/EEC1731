@@ -1,4 +1,4 @@
-# DCO1020: Comunicações Móveis - 2020.2 (em 2021)
+# DCO1020: Comunicações Móveis - 2021.1
 
 ## UNIDADE I
 
