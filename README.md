@@ -12,9 +12,12 @@
 - Análise de Outage de potência
 
 **Entregas:**
-- 
-
-
+- As entregas estão especificadas ao longo do Hands-on;
+- As entregas devem compor um único arquivo **zip** com os códigos separados nas seguintes pastas: Entrega_01 e Entrega_02, respectivamente para cada entrega. 
+- Cada pasta deve conter um arquivo chamado README.txt, indicando como rodar o código produzido por você (produza um código autocontido, no qual o usuário deva rodar um único script para chegar nos resultados desejados). 
+- Não será necessário produzir um relatório. Contudo, é parte importante da entrega a produção de um vídeo no youtube, de no máximo 5 minutos, contendo uma descrição do código implementado (explicar brevemente o que foi feito, mostrar as formulações em slides se necessário, mostrar como rodar o código e os gráficos gerados). O link do vídeo deve ser informado no arquivo README.txt;
+- O vídeo de até 5 minutos deve conter o conteúdo das Entrega_01 e Entrega_02;
+- Finalmente, o arquivo zip deve ser entregue via SIGAA.**
 
 #### Modelagem da cobertura celula com sombreamento - [Link via Github](https://github.com/vicentesousa/DCO1020_2021_1/blob/master/h01_parte02.ipynb) - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/DCO1020_2021_1/blob/master/h01_parte02.ipynb)
 
