@@ -1,5 +1,6 @@
 # DCO1020: Comunicações Móveis - 2021.1
 
+<!--
 ## UNIDADE I
 
 ### Hands-on 01: Uso de modelos de propagação para análises sistêmicas
@@ -45,6 +46,20 @@
 **Prazo:**
 - As entregas do Hands-on 1 devem ser feitas via SIGAA até dia 13/07/2021;
 
+-->
+
+## UNIDADE II
+
+### Hands-on 1: OFDM Basics (ortogonalidade, transmissão e recepção, desempenho em canal sem fio) - [Link via Github](https://github.com/vicentesousa/DCO1020_2021_1/blob/main/h02.ipynb) - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/DCO1020_2021_1/blob/main/h02.ipynb)
+#### Objetivos
+- Entender a modelagem da multiplexação OFDM;
+- Entender o processo de ortogalização entre subportadoras OFDM;
+- Entender a modelagem da demultiplexação OFDM;
+- Demonstrar o processo de demultiplexação OFDM em canais AWGN.
+
+**A entrega devem compor um único arquivo zip com os códigos e um arquivo chamado README.txt, indicando como rodar o código produzido por você (produza um código autocontido, no qual o usuário deva rodar um único script para chegar nos resultados desejados). 
+
+**Faz parte da entrega a produção de um vídeo no youtube, de no máximo 5 minutos, contendo uma descrição do relatório e do código implementado (explicar brevemente o que foi feito, mostrar as formulações, mostrar como rodar o código e os gráficos gerados). O link do vídeo deve ser informado no mini-relatório. O vídeo é parte bem importante da avaliação.**
 
 <!--
 ## UNIDADE II
