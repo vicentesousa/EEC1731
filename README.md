@@ -76,7 +76,7 @@
 
 **Faz parte da entrega a produção de um vídeo no youtube, de no máximo 5 minutos, contendo uma descrição técnica do cálculo da taxa e do código implementado (explicar brevemente o que foi feito, mostrar as formulações, mostrar como rodar o código e os gráficos gerados). O link do vídeo deve ser informado no arquivo README.txt. O vídeo é parte crucial da avaliação.**
 
-**Importante: O vídeo no youtube deve explicar o funcionamento da interface gráfica e mostrar calculadora funcionando com a taxa mínima e a taxa máxima do LTE.**
+**Importante: O vídeo no youtube deve explicar o funcionamento da interface gráfica e mostrar calculadora funcionando com a taxa mínima e a taxa máxima do sistema.**
 
 
 **Prazo: 09/09/2021**
