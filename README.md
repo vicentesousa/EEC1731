@@ -79,7 +79,7 @@
 
 
 **Prazo: 09/09/2021**
-
+-->
 <!--
 
 ## Parte 2
@@ -110,4 +110,4 @@
 **Faz parte da entrega a produção de um vídeo no youtube, de no máximo 5 minutos, contendo uma descrição do código implementado (explicar brevemente o que foi feito, mostrar as formulações, mostrar como rodar o código e os gráficos gerados). O link do vídeo deve ser informado no mini-relatório. O vídeo é parte bem importante da avaliação.**
 -->
 
--->
+
