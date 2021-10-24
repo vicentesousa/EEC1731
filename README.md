@@ -26,7 +26,7 @@
 - Um vídeo de até 5 minutos deve conter o conteúdo das Entrega_03 e Entrega_04.
 
 **Prazo:**
-- As entregas do Hands-on 1 devem ser feitas via SIGAA;
+- As entregas do Hands-on 1 - Parte 01 e do Hands-on 1 - Parte 02 devem ser feitas via SIGAA;
 
 ### Hands-on 02: Caracterização de canal banda estreita (modelagem e caracterização do desvanecimento de pequena escala) - [Link via Github](https://github.com/vicentesousa/DCO1020_2021_1/blob/main/h01_parte_03.ipynb)  - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/DCO1020_2021_1/blob/main/h01_parte_03.ipynb)
 
