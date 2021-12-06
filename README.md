@@ -46,7 +46,7 @@
 - As entregas do Hands-on 1 devem ser feitas via SIGAA;
 
 
-<!--
+
 ## UNIDADE II
 
 ### Hands-on 1: OFDM Basics (ortogonalidade, transmissão e recepção, desempenho em canal sem fio) - [Link via Github](https://github.com/vicentesousa/DCO1020_2021_1/blob/main/h02.ipynb) - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/DCO1020_2021_1/blob/main/h02.ipynb)
@@ -60,7 +60,9 @@
 
 **Faz parte da entrega a produção de um vídeo no youtube, de no máximo 5 minutos, contendo uma descrição do relatório e do código implementado (explicar brevemente o que foi feito, mostrar as formulações, mostrar como rodar o código e os gráficos gerados). O link do vídeo deve ser informado no arquivo README.txt. O vídeo é parte bem importante da avaliação.**
 
-**Prazo: 26/08/2021**
+**Prazo: 09/01/2021**
+
+<!--
 
 ## UNIDADE III
 
