@@ -60,7 +60,7 @@
 
 **Faz parte da entrega a produção de um vídeo no youtube, de no máximo 5 minutos, contendo uma descrição do relatório e do código implementado (explicar brevemente o que foi feito, mostrar as formulações, mostrar como rodar o código e os gráficos gerados). O link do vídeo deve ser informado no arquivo README.txt. O vídeo é parte bem importante da avaliação.**
 
-**Prazo: 09/01/2021**
+**Prazo: 16/01/2021**
 
 <!--
 
