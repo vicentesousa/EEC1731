@@ -60,13 +60,9 @@
 
 **Faz parte da entrega a produção de um vídeo no youtube, de no máximo 5 minutos, contendo uma descrição do relatório e do código implementado (explicar brevemente o que foi feito, mostrar as formulações, mostrar como rodar o código e os gráficos gerados). O link do vídeo deve ser informado no arquivo README.txt. O vídeo é parte bem importante da avaliação.**
 
-**Prazo: 16/01/2021**
+**Prazo: 16/01/2022**
 
-<!--
-
-## UNIDADE III
-
-### Hands-on 1: calculadora de taxa de transmissão máxima de sistemas 4G e 5G - [Link via Github](https://github.com/vicentesousa/DCO1020_2021_1/blob/main/h03.ipynb) - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/DCO1020_2021_1/blob/main/h03.ipynb)
+### Hands-on 2: calculadora de taxa de transmissão máxima de sistemas 4G e 5G - [Link via Github](https://github.com/vicentesousa/DCO1020_2021_1/blob/main/h03.ipynb) - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/DCO1020_2021_1/blob/main/h03.ipynb)
 
 #### Objetivos
 - Entender o cálculo de taxa máxima de sistemas 3GPP-LTE (Release 10);
@@ -79,8 +75,13 @@
 
 **Importante: O vídeo no youtube deve explicar o funcionamento da interface gráfica e mostrar calculadora funcionando com a taxa mínima e a taxa máxima do sistema.**
 
+**Prazo: 30/01/2022**
 
-**Prazo: 09/09/2021**
+
+<!--
+
+## UNIDADE III
+
 -->
 <!--
 
