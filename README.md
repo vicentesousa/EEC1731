@@ -1,5 +1,6 @@
 # DCO1020: Comunicações Móveis - 2021.2
 
+<!--
 ## UNIDADE I
 
 ### Hands-on 01: Uso de modelos de propagação para análises sistêmicas
@@ -45,7 +46,7 @@
 **Prazo:**
 - As entregas do Hands-on 1 devem ser feitas via SIGAA;
 
-
+-->
 
 ## UNIDADE II
 
