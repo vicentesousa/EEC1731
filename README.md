@@ -50,7 +50,7 @@
 
 ## UNIDADE II
 
-### Hands-on 1: OFDM Basics (ortogonalidade, transmissão e recepção, desempenho em canal sem fio) - [Link via Github](https://github.com/vicentesousa/DCO1020_2021_1/blob/main/h02.ipynb) - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/DCO1020_2021_1/blob/main/h02.ipynb)
+### Hands-on 1: OFDM Basics (ortogonalidade, transmissão e recepção, desempenho em canal sem fio) - [Link via Github](https://github.com/vicentesousa/DCO1020_2021_2/blob/main/h02.ipynb) - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/DCO1020_2021_2/blob/main/h02.ipynb)
 #### Objetivos
 - Entender a modelagem da multiplexação OFDM;
 - Entender o processo de ortogalização entre subportadoras OFDM;
@@ -63,7 +63,7 @@
 
 **Prazo: 16/01/2022**
 
-### Hands-on 2: calculadora de taxa de transmissão máxima de sistemas 4G e 5G - [Link via Github](https://github.com/vicentesousa/DCO1020_2021_1/blob/main/h03.ipynb) - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/DCO1020_2021_1/blob/main/h03.ipynb)
+### Hands-on 2: calculadora de taxa de transmissão máxima de sistemas 4G e 5G - [Link via Github](https://github.com/vicentesousa/DCO1020_2021_2/blob/main/h03.ipynb) - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/DCO1020_2021_2/blob/main/h03.ipynb)
 
 #### Objetivos
 - Entender o cálculo de taxa máxima de sistemas 3GPP-LTE (Release 10);
@@ -78,6 +78,17 @@
 
 **Prazo: 30/01/2022**
 
+
+## UNIDADE III
+
+### Projeto da UNIDADE II - [Link via Github](https://github.com/vicentesousa/DCO1020_2021_2/blob/main/h04.ipynb) - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/DCO1020_2021_2/blob/main/h04.ipynb)
+#### Objetivos
+- Colocar o aluno em contato com material técnico sobre Sistemas Modernos de Comunicação; 
+- Incentivar a preparação de material técnico pelo aluno;
+- Avaliar as habilidades de entendimento de leitura técnica, objetividade na apresentação de assuntos técnicos.
+
+
+**Prazo: 10/02/2022**
 
 <!--
 
