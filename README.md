@@ -81,7 +81,7 @@
 
 ## UNIDADE III
 
-### Projeto da UNIDADE II - [Link via Github](https://github.com/vicentesousa/DCO1020_2021_2/blob/main/h04.ipynb) - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/DCO1020_2021_2/blob/main/h04.ipynb)
+### Projeto da UNIDADE III - [Link via Github](https://github.com/vicentesousa/DCO1020_2021_2/blob/main/h04.ipynb) - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/DCO1020_2021_2/blob/main/h04.ipynb)
 #### Objetivos
 - Colocar o aluno em contato com material técnico sobre Sistemas Modernos de Comunicação; 
 - Incentivar a preparação de material técnico pelo aluno;
