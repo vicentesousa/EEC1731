@@ -1,10 +1,10 @@
-# DCO1020: Comunicações Móveis - 2022.1
-
+# EEC1731: RADIOPROPAGAÇÃO - 2022.1
 
 ## UNIDADE I
 
 ### Hands-on 01: Uso de modelos de propagação para análises sistêmicas
 
+<!--
 #### Parte 01: Avaliação de cobertura celular [Link via Github](https://github.com/vicentesousa/DCO1020_2021_1/blob/main/h01_parte01.ipynb) - [Link alternativo via nbviewer](http://nbviewer.jupyter.org/github/vicentesousa/DCO1020_2021_1/blob/main/h01_parte01.ipynb)
 
 **Objetivos:**
@@ -29,7 +29,9 @@
 **Prazo:**
 - As entregas do Hands-on 1 - Parte 01 e do Hands-on 1 - Parte 02 devem ser feitas via SIGAA;
 
-### Hands-on 02: Caracterização de canal banda estreita (modelagem e caracterização do desvanecimento de pequena escala) - [Link via Github](https://github.com/vicentesousa/DCO1020_2021_1/blob/main/h01_parte_03.ipynb)  - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/DCO1020_2021_1/blob/main/h01_parte_03.ipynb)
+-->
+
+### Hands-on 01: Caracterização de canal banda estreita (modelagem e caracterização do desvanecimento de pequena escala) - [Link via Github](https://github.com/vicentesousa/EEC1731/blob/main/h01_parte_03.ipynb)  - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/EEC1731/blob/main/h01_parte_03.ipynb)
 
 **Objetivos:**
 - Gerar uma série temporal sintética com Perda de Percurso, Sombreamento e Desvanecimento m-Nakagami;
