@@ -1,0 +1,41 @@
+Entrega hands-on (feito):
+
+hands_on_01_python: Lucas
+
+Entrega via SIGAA: Eriberto, Julia, José
+
+
+Entrega de experimento parte II - cálculo da janela segundo o artigo do Vega
+
+
+vega_matlab (José Marcos): 
+- códigos Julia e José com modelo do canal melhorado (path loss mais realistíco), fading Nakagami, Rice
+- Incluir Weibull (está dando crash) 
+- José e Julia: artigo do Vega (curva de 1dbSpread ok, d da autocorrelação está sendo calculado. Existem várias formas de calcular o N. Apresenta as seguintes pendências de comprovação:
+-- d da autocorrelação
+-- formas de calcular o N
+- E-mail foi enviado ao autor do artigo (esperando resposta)
+
+vega_python: Lucas passar o código para python (refletir o experimento acima no Pyhton)
+
+
+Eriberto: Dataset para ajudar na comprovação
+
+
+novo_metodo: José Marcos
+
+
+Entrega de experimento parte III - Modelagem do Doppler, do LCR e AFD com diferentes distribuições
+
+Entendimento e organização do Código do Deyvid: 
+
+LCR_AFD_matlab
+-- Geração de canal Rayleigh com Doppler (Eriberto)
+-- Cálculo do LCR e AFD (Eriberto)
+-- Estimação de Fd e velocidade (Julia)
+
+LCR_AFD_alternativo:
+-- Investigação de cálculo alternativo: https://www.mathworks.com/matlabcentral/fileexchange/54750-level-crossing-rate-lcr-and-average-fade-duration-afd (Julia)
+
+LCR_AFD_python: passar código do Deyvid para Python 
+
