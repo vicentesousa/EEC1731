@@ -33,6 +33,8 @@
 - **TODO Eriberto (revisão: Julia)**;
 - ...
 
+Eriberto: comparar o teórico com o calculado no experimento. Ver https://www.calculatoratoz.com/en/level-crossing-rate-calculator/Calc-20750
+
 ### Hands-on 06: Caracterização de canal banda estreita (LCR e AFD para canais Rayleigh usando Matlab - Código Alternativo) - [Link via Github](https://github.com/vicentesousa/EEC1731/blob/main/h01_parte_03.ipynb)  - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/EEC1731/blob/main/h01_parte_03.ipynb)
 
 **Objetivos:**
