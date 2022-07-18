@@ -1,5 +1,10 @@
 # EEC1731: RADIOPROPAGAÇÃO - 2022.1
 
+# Hands-on 00: Instalação do Kernel do Matlab no Jupyter Notebook - [Link via Github](https://github.com/vicentesousa/EEC1731/blob/main/h01_parte_03.ipynb)  - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/EEC1731/blob/main/h01_parte_03.ipynb)
+
+**Objetivos:**
+- TODO José Marcos.
+
 ### Hands-on 01: Caracterização de canal banda estreita (modelagem e caracterização do desvanecimento de pequena escala) - [Link via Github](https://github.com/vicentesousa/EEC1731/blob/main/h01_parte_03.ipynb)  - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/EEC1731/blob/main/h01_parte_03.ipynb)
 
 **Objetivos:**
