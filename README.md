@@ -45,10 +45,12 @@ Eriberto: comparar o teórico com o calculado no experimento. Ver https://www.ca
 Investigação de [cálculo alternativo](https://www.mathworks.com/matlabcentral/fileexchange/54750-level-crossing-rate-lcr-and-average-fade-duration-afd)
 
 **Objetivos:**
-- Gerar um sinal no domínio do tempo a partir de um filtro de 3ª ordem;
+- Gerar sinal no domínio do tempo a partir de um filtro de 3ª ordem;
 - Calcular LCR simulado e teórico;
 - Calcular AFD simulado e teórico;
-- Estimar frequência Doppler e velocidade.
+- Estimar frequência Doppler e velocidade;
+- Encontrar melhor $\rho$ para estimar frequência Doppler e velocidade.
+
 
 ### Hands-on 07: Caracterização de canal banda estreita (LCR e AFD para canais Rayleigh usando Python) - [Link via Github](https://github.com/vicentesousa/EEC1731/blob/main/h01_parte_03.ipynb)  - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/EEC1731/blob/main/h01_parte_03.ipynb)
 
