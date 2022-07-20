@@ -2,7 +2,7 @@ clear all
 close all
 clc
 %% Parâmetros
-fd=10;                              % frequency filter
+fd=10;                              % frequência Doppler (Hz)
 ts=1e-6;                            % tempo de amostragem
 fs = 1/ts;                          % taxa de amostragem
 
