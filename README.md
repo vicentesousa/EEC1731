@@ -26,7 +26,7 @@
 - ...
 
 
-### Hands-on 04: Caracterização de canal banda estreita (modelagem de janela de filtragem - Novo Método) - [Link via Github](https://github.com/vicentesousa/EEC1731/blob/main/h01_parte_03.ipynb)  - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/EEC1731/blob/main/h01_parte_03.ipynb)
+### Hands-on 04: Caracterização de canal banda estreita (modelagem de janela de filtragem - Novo Método) - [Link via Github](https://github.com/vicentesousa/EEC1731/blob/main/codes_2022/novo_metodo/find_window_vega_novo.ipynb)  - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/EEC1731/blob/main/codes_2022/novo_metodo/find_window_vega_novo.ipynb)
 
 **Objetivos:**
 - Compreender e aplicar a técnica do Vega utilizada para encontrar o tamanho da melhor janela de filtragem dos desvanecimentos de pequena e larga escala do canal;
