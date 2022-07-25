@@ -3,7 +3,8 @@
 # Hands-on 00: Instalação do Kernel do Matlab no Jupyter Notebook - [Link via Github](https://github.com/vicentesousa/EEC1731/blob/main/h01_parte_03.ipynb)  - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/EEC1731/blob/main/h01_parte_03.ipynb)
 
 **Objetivos:**
-- TODO José Marcos.
+- Instalar o Kernel do Matlab para o Jupyter Notebook no Windows;
+- Testar o Kernel do Matlab para o Jupyter Notebook no Windows.
 
 ### Hands-on 01: Caracterização de canal banda estreita (modelagem e caracterização do desvanecimento de pequena escala) - [Link via Github](https://github.com/vicentesousa/EEC1731/blob/main/h01_parte_03.ipynb)  - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/EEC1731/blob/main/h01_parte_03.ipynb)
 
@@ -12,12 +13,11 @@
 - Estimar cada desvanecimento por meio de regressão linear, filtragem e tratamento estatístico;
 - Fazer gráficos e comparar as partes geradas sinteticamente e as partes estimadas.
 
-
 ### Hands-on 02: Caracterização de canal banda estreita (modelagem de janela de filtragem genérica usando o Matlab) - [Link via Github](https://github.com/vicentesousa/EEC1731/blob/main/h01_parte_03.ipynb)  - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/EEC1731/blob/main/h01_parte_03.ipynb)
 
 **Objetivos:**
-- **TODO José Marcos**;
-- ...
+- Apresentar a geração de uma série temporal sintética com valores de potência recebida em função da distância, para caracterizar o Desvanecimento de Larga Escala (Perda de Percurso, Sombreamento) e Pequena Escala do canal;
+- Compreender e aplicar a técnica do Vega utilizada para encontrar o tamanho da melhor janela de filtragem dos desvanecimentos de pequena e larga escala do canal.
 
 ### Hands-on 03: Caracterização de canal banda estreita (modelagem de janela de filtragem genérica usando o Python) - [Link via Github](https://github.com/vicentesousa/EEC1731/blob/main/h01_parte_03.ipynb)  - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/EEC1731/blob/main/h01_parte_03.ipynb)
 
@@ -29,8 +29,8 @@
 ### Hands-on 04: Caracterização de canal banda estreita (modelagem de janela de filtragem - Novo Método) - [Link via Github](https://github.com/vicentesousa/EEC1731/blob/main/h01_parte_03.ipynb)  - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/EEC1731/blob/main/h01_parte_03.ipynb)
 
 **Objetivos:**
-- **TODO José Marcos**;
-- ...
+- Compreender e aplicar a técnica do Vega utilizada para encontrar o tamanho da melhor janela de filtragem dos desvanecimentos de pequena e larga escala do canal;
+- Apresentar uma possibilidade de novo método para definir a melhor janela para filtragem dos desvanecimentos do canal.
 
 ### Hands-on 05: Caracterização de canal banda estreita (LCR e AFD para canais Rayleigh usando Matlab) - [Link via Github](https://github.com/vicentesousa/EEC1731/blob/main/h01_parte_03.ipynb)  - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/EEC1731/blob/main/h01_parte_03.ipynb)
 
