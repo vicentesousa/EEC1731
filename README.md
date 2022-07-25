@@ -1,6 +1,6 @@
 # EEC1731: RADIOPROPAGAÇÃO - 2022.1
 
-# Hands-on 00: Instalação do Kernel do Matlab no Jupyter Notebook - [Link via Github](https://github.com/vicentesousa/EEC1731/blob/main/h01_parte_03.ipynb)  - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/EEC1731/blob/main/h01_parte_03.ipynb)
+### Hands-on 00: Instalação do Kernel do Matlab no Jupyter Notebook - [Link via Github](https://github.com/vicentesousa/EEC1731/blob/main/codes_2022/kernel_matlab/Kernel_matlab_jn.ipynb)  - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github.com/vicentesousa/EEC1731/blob/main/codes_2022/kernel_matlab/Kernel_matlab_jn.ipynb)
 
 **Objetivos:**
 - Instalar o Kernel do Matlab para o Jupyter Notebook no Windows;
@@ -13,7 +13,7 @@
 - Estimar cada desvanecimento por meio de regressão linear, filtragem e tratamento estatístico;
 - Fazer gráficos e comparar as partes geradas sinteticamente e as partes estimadas.
 
-### Hands-on 02: Caracterização de canal banda estreita (modelagem de janela de filtragem genérica usando o Matlab) - [Link via Github](https://github.com/vicentesousa/EEC1731/blob/main/h01_parte_03.ipynb)  - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/EEC1731/blob/main/h01_parte_03.ipynb)
+### Hands-on 02: Caracterização de canal banda estreita (modelagem de janela de filtragem genérica usando o Matlab) - [Link via Github](https://github.com/vicentesousa/EEC1731/blob/main/codes_2022/vega_matlab/find_window_vega.ipynb)  - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github.com/vicentesousa/EEC1731/blob/main/codes_2022/vega_matlab/find_window_vega.ipynb)
 
 **Objetivos:**
 - Apresentar a geração de uma série temporal sintética com valores de potência recebida em função da distância, para caracterizar o Desvanecimento de Larga Escala (Perda de Percurso, Sombreamento) e Pequena Escala do canal;
