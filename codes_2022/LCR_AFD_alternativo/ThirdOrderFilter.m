@@ -1,6 +1,6 @@
-function [Y_T, t] = ThirdOrderFilter(fd,ts)
+function [Y_T, t] = ThirdOrderFilter(fd,Ts,ts)
 %% Parameters
-t=0:ts:1-ts;
+t=0:ts:Ts;
 zeta=0.175;                           % Underdamp  value for zeta
 w0=2*pi*fd/1.2;                       % Natural angular frequency
 
@@ -9,7 +9,8 @@ w0=2*pi*fd/1.2;                       % Natural angular frequency
 a=w0^3;
 b=(2*zeta*w0)+w0;
 c=(2*zeta*(w0^2))+(w0^2);
-%% building third order Filter in s-domain z-domain w-domain and f-domain
+
+%% building third order Filter
 syms f s w;                               % define symbols
 tf_s=tf(a,[1 b c a]);                     % 3rd order tf in S domain
 tf_z=c2d(tf_s,ts,'tustin');               % tustin: bilinear transformation
@@ -34,4 +35,3 @@ IP=[IP_no IP_T];                      % first n0 bits for transient response
 % Output from filter
 Y = filter(numZ_N,denZ,IP);              % output from filter
 Y_T = Y(n0+1:end);                       % output after removing transients
-
