@@ -6,7 +6,7 @@
 - Instalar o Kernel do Matlab para o Jupyter Notebook no Windows;
 - Testar o Kernel do Matlab para o Jupyter Notebook no Windows.
 
-### Hands-on 00_B: Instalação do Kernel do Matlab no Jupyter Notebook - [Link via Github](https://github.com/vicentesousa/EEC1731/blob/main/codes_2022/kernel_Matlab_Ubuntu1804/kernel_Matlab_UBUNTU).ipynb)  - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/EEC1731/blob/main/codes_2022/kernel_matlab/Kernel_matlab_jn.ipynb)
+### Hands-on 00_B: Instalação do Kernel do Matlab no Jupyter Notebook - [Link via Github](https://github.com/vicentesousa/EEC1731/blob/main/codes_2022/kernel_Matlab_Ubuntu1804/kernel_Matlab_UBUNTU.ipynb) - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/EEC1731/blob/main/codes_2022/kernel_Matlab_Ubuntu1804/kernel_Matlab_UBUNTU.ipynb)
 
 **Objetivos:**
 - Instalar o Kernel do Matlab para o Jupyter Notebook no Linux (Ubuntu_18_04_LTS);
