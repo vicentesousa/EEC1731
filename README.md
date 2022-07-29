@@ -39,13 +39,14 @@
 - Compreender e aplicar a técnica do Vega utilizada para encontrar o tamanho da melhor janela de filtragem dos desvanecimentos de pequena e larga escala do canal;
 - Apresentar uma possibilidade de novo método para definir a melhor janela para filtragem dos desvanecimentos do canal.
 
-### Hands-on 05: Caracterização de canal banda estreita (LCR e AFD para canais Rayleigh usando Matlab) - [Link via Github](https://github.com/vicentesousa/EEC1731/blob/main/h01_parte_03.ipynb)  - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/EEC1731/blob/main/h01_parte_03.ipynb)
+### Hands-on 05: Caracterização de canal banda estreita (LCR e AFD para canais Rayleigh usando Matlab) - [Link via Github](https://github.com/vicentesousa/EEC1731/blob/main/codes_2022/LCR_AFD_matlab/Hands_on_01_AFD_e_LCR.ipynb)  - [Link alternativo via nbviewer](https://nbviewer.org/github/vicentesousa/EEC1731/blob/main/codes_2022/LCR_AFD_matlab/Hands_on_01_AFD_e_LCR.ipynb)
 
 **Objetivos:**
-- **TODO Eriberto (revisão: Julia)**;
-- ...
+-Gerar sinal no domínio do tempo a partir de um filtro FWGN;
+- Calcular LCR simulado e teórico;
+- Calcular AFD simulado e teórico;
+- Estimar frequência Doppler e velocidade.
 
-Eriberto: comparar o teórico com o calculado no experimento. Ver https://www.calculatoratoz.com/en/level-crossing-rate-calculator/Calc-20750
 
 ### Hands-on 06: Caracterização de canal banda estreita (LCR e AFD para canais Rayleigh usando Matlab - Código Alternativo) - [Link via Github](https://github.com/vicentesousa/EEC1731/blob/main/codes_2022/LCR_AFD_alternativo/mainLCRandAFD.ipynb)  - [Link alternativo via nbviewer](https://nbviewer.org/github/vicentesousa/EEC1731/blob/main/codes_2022/LCR_AFD_alternativo/mainLCRandAFD.ipynb)
 
