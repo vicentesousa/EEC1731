@@ -42,7 +42,7 @@
 ### Hands-on 05: Caracterização de canal banda estreita (LCR e AFD para canais Rayleigh usando Matlab) - [Link via Github](https://github.com/vicentesousa/EEC1731/blob/main/codes_2022/LCR_AFD_matlab/Hands_on_01_AFD_e_LCR.ipynb)  - [Link alternativo via nbviewer](https://nbviewer.org/github/vicentesousa/EEC1731/blob/main/codes_2022/LCR_AFD_matlab/Hands_on_01_AFD_e_LCR.ipynb)
 
 **Objetivos:**
--Gerar sinal no domínio do tempo a partir de um filtro FWGN;
+- Gerar sinal no domínio do tempo a partir de um filtro FWGN;
 - Calcular LCR simulado e teórico;
 - Calcular AFD simulado e teórico;
 - Estimar frequência Doppler e velocidade.
