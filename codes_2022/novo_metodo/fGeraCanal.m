@@ -1,4 +1,4 @@
-function [vtDist, vtSlowFadMod, vtPathLossMod, vtShadMod, vtFastFadMod, vtPrx] = fGeraCanal(sPar)
+function [vtDist, vtLongFadMod, vtPathLossMod, vtShadMod, vtShortFadMod, vtPrx] = fGeraCanal(sPar)
 % Parser dos parâmetros de entrada
 fc = sPar.fc;                      % Frequência da Portadora  
 totalLength = sPar.totalLength;    % Distância final da rota de medição (m)
@@ -59,12 +59,12 @@ switch pdftype
                       (s1.^2)) .*besseli(0, x .* s2 ./ (s1.^2));
 end
 normEnvelope = slicesample(1,nSamples,'pdf',pdfEquation);
-vtFastFadMod=20.*log10(normEnvelope');
+vtShortFadMod=20.*log10(normEnvelope');
 
 % Cálculo da Potência recebida
 txPower = txPower*ones(1,nSamples);
-vtPrx = txPower-vtPathLossMod+vtShadMod+vtFastFadMod; % Potência recebida
-vtSlowFadMod = txPower-vtPathLossMod+vtShadMod; % Desvanecimento de Larga Escala
+vtPrx = txPower-vtPathLossMod+vtShadMod+vtShortFadMod; % Potência recebida
+vtLongFadMod = txPower-vtPathLossMod+vtShadMod; % Desvanecimento de Larga Escala
 
 % Salva variáveis do canal no Matlab
-save([sPar.chFileName '.mat'],'vtDist', 'vtSlowFadMod', 'vtPathLossMod', 'vtShadMod', 'vtFastFadMod', 'vtPrx');
+save([sPar.chFileName '.mat'],'vtDist', 'vtLongFadMod', 'vtPathLossMod', 'vtShadMod', 'vtShortFadMod', 'vtPrx');
